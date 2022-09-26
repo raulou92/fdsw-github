@@ -27,6 +27,11 @@ body {
   color: #373a3c;
 }
 
+.card-img-top {
+  width: 200px;
+  margin: 20px auto 0px;
+}
+
 @media (max-width: 768px) {
   #Contacto form label {
     font-weight: 400;
